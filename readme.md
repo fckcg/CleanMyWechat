@@ -68,14 +68,6 @@ cp -r images dist/
 
 [@Louhwz](https://github.com/Louhwz)：版本 2.0 的主要开发者，增加多用户支持、多线程删除、自定义路径等
 
-## 开发者
-
-微博：@BlackBoXo
-
-邮箱：bwu18@fudan.edu.cn
-
-Blog：https://www.blackboxo.top/
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=blackboxo/CleanMyWechat&type=Date)](https://star-history.com/#blackboxo/CleanMyWechat&Date)
